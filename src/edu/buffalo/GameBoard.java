@@ -4,7 +4,7 @@ import edu.buffalo.creatures.*;
 import edu.buffalo.tiles.*;
 
 import javax.swing.JPanel;
-import javax.swing.JLabel;
+import javax.swing.JLabel; 
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
